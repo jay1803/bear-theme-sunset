@@ -1,0 +1,1158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>key</key>
+		<string>$base-background-color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>rgba(255, 254, 252, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>$lipstick-900</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>rgba(60, 26, 64, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>$lipstick-800</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>rgba(99, 41, 90, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>$lipstick-700</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>rgba(135, 55, 102, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>$lipstick-600</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>rgba(171, 70, 104, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>$lipstick-500</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>rgba(207, 85, 95, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>$lipstick-400</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>rgba(219, 109, 105, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>$lipstick-300</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>rgba(235, 149, 131, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>$lipstick-200</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>rgba(252, 192, 164, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>$lipstick-100</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>rgba(255, 223, 194, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>$lipstick-50</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>rgba(255, 245, 224, 1.00)</string>
+	</dict>
+
+	<dict>
+		<key>key</key>
+		<string>$sunset-900</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>rgba(61, 51, 59, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>$sunset-800</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>rgba(112, 81, 88, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>$sunset-700</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>rgba(176, 119, 113, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>$sunset-600</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>rgba(212, 138, 106, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>$sunset-500</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>rgba(240, 156, 96, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>$sunset-400</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>rgba(242, 178, 114, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>$sunset-300</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>rgba(247, 203, 136, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>$sunset-200</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>rgba(255, 229, 163, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>$sunset-100</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>rgba(255, 245, 189, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>$sunset-50</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>rgba(255, 255, 222, 1.00)</string>
+	</dict>
+
+	<dict>
+		<key>key</key>
+		<string>$test-color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>rgba(11, 214, 0, 1.00)</string>
+	</dict>
+
+	<dict>
+		<key>key</key>
+		<string>$white</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>rgba(255, 255, 255, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Note Table View Background Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$base-background-color</string>
+		<!-- 列表背景色 -->
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Note Table Separator Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$lipstick-100</string>
+		<!-- 列表分割线 -->
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Note Table Cell Title Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$sunset-800</string>
+		<!-- 列表笔记标题 -->
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Note Table Cell Subtitle Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$sunset-700</string>
+		<!-- 列表描述文件 -->
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Note Table Cell Selected Background Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$lipstick-100</string>
+		<!-- 选中列表背景色 -->
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Note Table Cell Selected Background Inactive Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$lipstick-50</string>
+		<!-- 选中列表失焦背景色 -->
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Note Table Cell Selected Ribbon Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$lipstick-500</string>
+		<!-- 选中侧栏颜色 -->
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Note Table Cell Selected Ribbon Inactive Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$lipstick-300</string>
+		<!-- 选中侧栏失焦颜色 -->
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Note Table Cell Todo Percentage Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$lipstick-500</string>
+		<!-- 进度条颜色 -->
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Note Table Cell Todo Percentage Complete Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$lipstick-100</string>
+		<!-- 进度条完成颜色 -->
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Note Table Cell Search Background Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$sunset-500</string>
+		<!-- 搜索关键词背景色 -->
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Note Table Cell Search Text Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$lipstick-50</string>
+		<!-- 搜索关键词颜色 -->
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Note Table Cell Pin Icon Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$lipstick-500</string>
+		<!-- 固定图标颜色 -->
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Note Table Add Note Icon Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$lipstick-500</string>
+		<!-- 添加图标颜色 -->
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Note Table Add Note Icon Active Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$lipstick-900</string>
+		<!-- 添加图标激活颜色 -->
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>iOS Note Table Add Note Background Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$sunset-500</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>iOS Note Table Add Note Foreground Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$sunset-200</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>iOS Note Table Add Note Background Active Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>rgba(123, 31, 37, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>iOS Note Table Add Note Foreground Active Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>rgba(253, 252, 255, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>iOS Note Table Cell Normal Swipe Actions Background Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$lipstick-500</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>iOS Note Table Cell Normal Swipe Actions Foreground Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>rgba(207, 207, 207, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>iOS Note Table Cell Alert Swipe Actions Background Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$sunset-200</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>iOS Note Table Cell Alert Swipe Actions Foreground Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$sunset-200</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Note Table Search Text Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$sunset-900</string>
+		<!-- 搜索框中关键字的颜色 -->
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Note Table Seach Selected Text Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$sunset-900</string>
+		<!-- 选中搜索框中关键字的颜色 -->
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Note Table Search Selected Text Background Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$sunset-200</string>
+		<!-- 搜索框选中文字背景色 -->
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Note Table Search Placeholder Text Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$lipstick-200</string>
+		<!-- 搜索框文字颜色 -->
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Note Table Search Insertion Point Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$lipstick-500</string>
+		<!-- 搜索框鼠标颜色 -->
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Note Table Search Background Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$base-background-color</string>
+		<!-- 搜索框的背景色 -->
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Note Table Search Border Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$lipstick-200</string>
+		<!-- 搜索框边框 -->
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Note Table Search Selected Border Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$lipstick-500</string>
+		<!-- 搜索框激活颜色 -->
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Note Table Search Search Icon Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$lipstick-300</string>
+		<!-- 搜索图标颜色 -->
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Note Table Search Cancel Icon Background Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$lipstick-300</string>
+		<!-- 取消搜索图标颜色 -->
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Sidebar Background Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$lipstick-900</string>
+		<!-- 导航栏背景色 -->
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Sidebar Cell Selected Background Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$sunset-500</string>
+		<!-- 导航栏选中背景色 -->
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Sidebar Cell Selected Background Inactive Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$lipstick-500</string>
+		<!-- 导航栏选中失焦背景色 -->
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Sidebar Cell Text Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$lipstick-200</string>
+		<!-- 导航栏文字颜色 -->
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Sidebar Cell Selected Text Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$lipstick-900</string>
+		<!-- 导航栏选中文字颜色 -->
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Sidebar Cell Icon Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$lipstick-300</string>
+		<!-- 导航栏图标颜色 -->
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Sidebar Cell Icon Light Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>@alpha($lipstick-200, 0.75)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Sidebar Cell Icon Selected Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>@alpha($lipstick-900, 0.75)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Note Action Icon Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$lipstick-200</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Note Action Icon Active Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$lipstick-400</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Split View Sidebar Separator Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$lipstick-900</string>
+		<!-- 导航栏分割线颜色 -->
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Split View Note Table Separator Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$lipstick-100</string>
+		<!-- 列表和内容分割线颜色 -->
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>iOS Panel Navigation Background Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>@alpha($base-background-color, 0.93)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Panel Background Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$base-background-color</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Panel Text Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$sunset-900</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Panel Text Highlight Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$sunset-700</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Panel Label Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$sunset-600</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Panel Separator Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$lipstick-100</string>
+		<!-- 设置面板分割线 -->
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Panel Icon Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$lipstick-100</string>
+		<!-- 设置面板图标颜色 -->
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Panel Icon Light Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$lipstick-100</string>
+		<!-- 设置面板图标颜色 -->
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Panel Icon Active Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$lipstick-500</string>
+		<!-- 设置面板图标激活 -->
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>iOS Preferences Panel Table Default Cell Background Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$sunset-200</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>iOS Preferences Panel Table Default Cell Foreground Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$sunset-900</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>iOS Preferences Panel Table Default Cell Status Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$sunset-200</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>iOS Preferences Panel Table Default Cell Accent Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$lipstick-500</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>iOS Preferences Panel Table Header Cell Background Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$base-background-color</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>iOS Preferences Panel Table Header Cell Foreground Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$sunset-300</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>iOS Preferences Panel Table Separator Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$sunset-300</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Style Editor Icon Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$sunset-700</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Style Editor Icon Accent Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$lipstick-500</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Style Editor Selected Icon Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$base-background-color</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Style Editor Selected Background Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$lipstick-500</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>iOS Navigation Background Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>@alpha($base-background-color, 0.93)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>iOS Navigation Sidebar Background Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>@alpha($sunset-900, 0.93)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>iOS Navigation Icon Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>rgba(180, 180, 180, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>iOS Navigation Icon Selected Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$lipstick-500</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>iOS Navigation Title Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$sunset-900</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>iOS Navigation Title Icon Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>@alpha($sunset-900, 0.3)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>iOS Navigation Title Accent Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$lipstick-500</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>iOS Navigation Title Icon Accent Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>@alpha($lipstick-500, 0.3)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>iOS Navigation Sidebar Icon Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>@alpha($sunset-200, 0.3)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>iOS Navigation Sidebar Icon Selected Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$lipstick-500</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>iOS Navigation Sidebar Title Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>@alpha($sunset-300, 0.3)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>iOS Navigation Search Bar Search Field Background Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>rgba(236, 236, 236, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>iOS Navigation Search Bar Text Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$sunset-900</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>iOS Navigation Search Bar Insertion Point Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$sunset-900</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>iOS Navigation Search Bar Placeholder Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>rgba(180, 180, 180, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>iOS Navigation Search Bar Icon Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>rgba(0, 0, 0, 0.30)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Placeholder Background Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$base-background-color</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Placeholder Background Stroke Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>@alpha($sunset-900, 0.4)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Placeholder Bear Background Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$base-background-color</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Placeholder Bear Shadow Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>@alpha($unset-900, 0.2)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Placeholder Bear Nose Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>@alpha($unset-900, 0.4)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Placeholder Bear Fur Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>@alpha($sunset-900, 0.2)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Placeholder Bear Stroke Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$sunset-900</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Placeholder Bear Accent Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$lipstick-500</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>iOS Image Lightbox Button Foreground Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$base-background-color</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>iOS Image Lightbox Button Foreground Active Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$base-background-color</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>iOS Image Lightbox Button Background Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>@alpha($unset-900, 0.3)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>iOS Image Lightbox Button Background Active Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>@alpha($sunset-900, 0.5)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>iOS Extension Export Button Foreground Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>rgba(204, 204, 204, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>iOS Extension Export Button Border Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$base-background-color</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>iOS Extension Export Button Foreground Active Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>rgba(116, 116, 116, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>iOS Extension Export Button Border Active Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>rgba(228, 228, 228, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>iOS Extension Bottom Button Foreground Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>rgba(161, 161, 161, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>iOS Extension Bottom Button Border Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>rgba(228, 228, 228, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string></string>
+		<key>kind</key>
+		<string>group</string>
+		<key>value</key>
+		<string>iOS Modal Panel</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>iOS Modal Panel Background Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$base-background-color</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>iOS Modal Panel Foreground Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$sunset-900</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>iOS Modal Panel Navigation Background Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$sunset-500</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>iOS Modal Panel Navigation Title Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>rgba(162, 46, 48, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>iOS Modal Panel Navigation Button Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$sunset-200</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>iOS Modal Panel Navigation Button Active Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$sunset-200</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>iOS Modal Panel Default Button Background Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$sunset-200</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>iOS Modal Panel Default Button Background Active Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$sunset-200</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>iOS Modal Panel Default Button Foreground Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$sunset-500</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>iOS Modal Panel Default Button Foreground Active Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$sunset-500</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>iOS Modal Panel Default Button Border Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$sunset-200</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>iOS Modal Panel Common Button Background Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$base-background-color</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>iOS Modal Panel Common Button Background Active Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$base-background-color</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>iOS Modal Panel Common Button Foreground Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$sunset-900</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>iOS Modal Panel Common Button Foreground Active Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$sunset-900</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>iOS Modal Panel Common Button Border Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$base-background-color</string>
+	</dict>
+</array>
+</plist>

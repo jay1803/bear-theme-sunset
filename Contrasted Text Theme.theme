@@ -1,0 +1,607 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>key</key>
+		<string>$base-background-color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>rgba(255, 254, 252, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>$lipstick-900</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>rgba(60, 26, 64, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>$lipstick-800</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>rgba(99, 41, 90, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>$lipstick-700</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>rgba(135, 55, 102, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>$lipstick-600</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>rgba(171, 70, 104, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>$lipstick-500</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>rgba(207, 85, 95, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>$lipstick-400</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>rgba(219, 109, 105, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>$lipstick-300</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>rgba(235, 149, 131, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>$lipstick-200</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>rgba(252, 192, 164, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>$lipstick-100</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>rgba(255, 223, 194, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>$lipstick-50</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>rgba(255, 245, 224, 1.00)</string>
+	</dict>
+
+	<dict>
+		<key>key</key>
+		<string>$sunset-900</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>rgba(61, 51, 59, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>$sunset-800</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>rgba(112, 81, 88, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>$sunset-700</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>rgba(176, 119, 113, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>$sunset-600</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>rgba(212, 138, 106, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>$sunset-500</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>rgba(240, 156, 96, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>$sunset-400</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>rgba(242, 178, 114, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>$sunset-300</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>rgba(247, 203, 136, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>$sunset-200</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>rgba(255, 229, 163, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>$sunset-100</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>rgba(255, 245, 189, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>$sunset-50</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>rgba(255, 255, 222, 1.00)</string>
+	</dict>
+
+	<dict>
+		<key>key</key>
+		<string>$test-color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>rgba(11, 214, 0, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>$code-background</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>rgba(255, 253, 247, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string></string>
+		<key>kind</key>
+		<string>group</string>
+		<key>value</key>
+		<string>Base colors</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Background Text Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$base-background-color</string>
+		<!-- 内容背景色 -->
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Base Text Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$sunset-900</string>
+		<!-- 内容文字颜色 -->
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Light Text Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$sunset-700</string>
+		<!-- 文字颜色亮色 -->
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Title Text Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$sunset-900</string>
+		<!-- 标题颜色 -->
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Link Text Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$lipstick-500</string>
+		<!-- 链接颜色 -->
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Accent Text Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$sunset-500</string>
+		<!-- 文字强调色 -->
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Insertion Point Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$sunset-500</string>
+		<!-- 鼠标颜色 -->
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Selected Text Background Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$sunset-200</string>
+		<!-- 选中文字的背景色 -->
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Selected Text Inactive Background Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$sunset-100</string>
+		<!-- 未激活窗口中选中的文字颜色 -->
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Style Marker Text Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$sunset-500</string>
+		<!-- 样式标记的颜色 -->
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Invalid Character Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$test-color</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Map Text Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$sunset-500</string>
+		<!-- 地址链接文字颜色 -->
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Separator Text Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$sunset-200</string>
+		<!-- 分割线颜色 -->
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Hashtag Text Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$lipstick-50</string>
+		<!-- 标签中 # 的文字颜色 -->
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Hashtag Marker Text Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$lipstick-200</string>
+		<!-- 标签中 # 的颜色 -->
+	</dict>
+	<dict>
+		<!-- 标签背景色 -->
+		<key>key</key>
+		<string>Hashtag Background Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$lipstick-500</string>
+	</dict>
+	<dict>
+		<!-- 标签选中背景色 -->
+		<key>key</key>
+		<string>Hashtag Selected Background Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$sunset-500</string>
+	</dict>
+	<dict>
+		<!-- Checkbox 填充色 -->
+		<key>key</key>
+		<string>Checkbox Fill Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$base-background-color</string>
+	</dict>
+	<dict>
+		<!-- Checkbox 外边框 -->
+		<key>key</key>
+		<string>Checkbox Stroke Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$sunset-500</string>
+	</dict>
+	<dict>
+		<!-- Checkbox 进度条背景色 -->
+		<key>key</key>
+		<string>Checkbox Check Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$sunset-500</string>
+	</dict>
+	<dict>
+		<!-- 高亮背景色 -->
+		<key>key</key>
+		<string>Highlighter Background Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$sunset-500</string>
+	</dict>
+	<dict>
+		<!-- 高亮标记颜色 -->
+		<key>key</key>
+		<string>Highlighter Marker Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$lipstick-500</string>
+	</dict>
+	<dict>
+		<!-- 代码块背景色 -->
+		<key>key</key>
+		<string>Code Background Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$code-background</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Code Stroke Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$lipstick-100</string>
+		<!-- 代码块边框颜色 -->
+	</dict>
+	<dict>
+		<!-- 代码文本色 -->
+		<key>key</key>
+		<string>Code Font Color</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$sunset-800</string>
+	</dict>
+	<dict>
+		<!-- 语法高亮色 -->
+		<key>key</key>
+		<string></string>
+		<key>kind</key>
+		<string>group</string>
+		<key>value</key>
+		<string>Syntax Highlight</string>
+	</dict>
+	<dict>
+		<!-- 语法关键词颜色 -->
+		<key>key</key>
+		<string>Syntax Keyword</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$lipstick-500</string>
+	</dict>
+	<dict>
+		<!-- 注释颜色 -->
+		<key>key</key>
+		<string>Syntax Comment</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$sunset-600</string>
+	</dict>
+	<dict>
+		<!-- 字符串颜色 -->
+		<key>key</key>
+		<string>Syntax String</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$sunset-500</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Syntax Project</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>rgba(50, 184, 150, 1.00)</string>
+		<!-- 声明类和方法 -->
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Syntax Preprocessor</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$lipstick-500</string>
+	</dict>
+	<dict>
+		<!-- 注释颜色 -->
+		<key>key</key>
+		<string>Syntax Documentation Comment</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>rgba(0, 152, 0, 1.00)</string>
+	</dict>
+	<dict>
+		<!-- 数字颜色 -->
+		<key>key</key>
+		<string>Syntax Number</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>rgba(133, 75, 153, 1.00)</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Syntax Character</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$test-color</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Syntax Attribute</string>
+		<key>kind</key>
+		<string>color</string>
+		<key>value</key>
+		<string>$sunset-500</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Paragraph Font</string>
+		<key>kind</key>
+		<string>font</string>
+		<key>value</key>
+		<string>AvenirNext-Regular</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Title Font</string>
+		<key>kind</key>
+		<string>font</string>
+		<key>value</key>
+		<string>AvenirNext-Medium</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Monospace Font</string>
+		<key>kind</key>
+		<string>font</string>
+		<key>value</key>
+		<string>Menlo-Regular</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Base Text Size</string>
+		<key>kind</key>
+		<string>number</string>
+		<key>value</key>
+		<integer>14</integer>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Base Text Size iOS</string>
+		<key>kind</key>
+		<string>number</string>
+		<key>value</key>
+		<integer>16</integer>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Monospace Font Adjust</string>
+		<key>kind</key>
+		<string>number</string>
+		<key>value</key>
+		<integer>-2</integer>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Line Height Multiplier</string>
+		<key>kind</key>
+		<string>number</string>
+		<key>value</key>
+		<real>1.5</real>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Line Width Multiplier</string>
+		<key>kind</key>
+		<string>number</string>
+		<key>value</key>
+		<real>40</real>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>Paragraph Spacing Multiplier</string>
+		<key>kind</key>
+		<string>number</string>
+		<key>value</key>
+		<real>0.0</real>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>H1 Font Size Multiplier</string>
+		<key>kind</key>
+		<string>number</string>
+		<key>value</key>
+		<real>1.5</real>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>H2 Font Size Multiplier</string>
+		<key>kind</key>
+		<string>number</string>
+		<key>value</key>
+		<real>1.3</real>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>H3 Font Size Multiplier</string>
+		<key>kind</key>
+		<string>number</string>
+		<key>value</key>
+		<real>1.1</real>
+	</dict>
+</array>
+</plist>
