@@ -4,7 +4,7 @@
 
 ## 预览 Preview
 
-![bear](https://github.com/jay1803/bear-theme-sunset/raw/master/bear-theme.png)
+![bear](https://github.com/jay1803/bear-theme-sunset/blob/master/bear-theme.png?raw=true)
 
 ## 使用方法 How to use
 
